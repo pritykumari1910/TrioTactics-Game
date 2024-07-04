@@ -29,3 +29,8 @@ Choose your mode: either challenge a friend in Player vs. Player or test your sk
 Take turns placing your markers (X or O) on a 3x3 grid.
 The goal is to be the first to align three markers horizontally, vertically, or diagonally.
 The game ends when one player achieves a winning alignment or when all spaces on the board are filled without a winner, resulting in a tie.
+
+
+
+
+link:https://triotactics-game8471.netlify.app/
