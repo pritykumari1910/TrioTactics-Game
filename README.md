@@ -34,6 +34,7 @@ The game ends when one player achieves a winning alignment or when all spaces on
 
 
 link:https://triotactics-game8471.netlify.app/
+updated link:https://trio-tactics-game.vercel.app/
 
 
 ![Screenshot (136)](https://github.com/user-attachments/assets/ec56c861-a0a3-4559-a34a-90ed9e483c5b)
